@@ -204,7 +204,7 @@ pytest==6.2.5
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 python-lsp-black @ file:///tmp/build/80754af9/python-lsp-black_1634232156041/work
 python-lsp-jsonrpc==1.0.0
-python-lsp-server==1.2.4
+python-lsp-server==1.4.1
 python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
 pytz==2021.3
 PyWavelets @ file:///C:/ci/pywavelets_1648728084106/work
