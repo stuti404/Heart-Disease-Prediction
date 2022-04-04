@@ -253,7 +253,7 @@ sqlparse==0.4.2
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 statsmodels==0.12.2
 sympy @ file:///C:/ci/sympy_1647853873858/work
-tables==3.6.1
+tables==3.7.0
 TBB==0.2
 tblib @ file:///Users/ktietz/demo/mc3/conda-bld/tblib_1629402031467/work
 tenacity==8.0.1
