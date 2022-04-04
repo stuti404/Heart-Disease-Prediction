@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6567a3ba-8ee9-4e8b-ad44-879f2c495a1b/resourceGroups/heart_disease/providers/Microsoft.Web/sites/heartdisease0",
+    "appService.deploySubpath": "."
+}
